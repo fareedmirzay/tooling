@@ -78,3 +78,7 @@ Default web root:
 
 
 #Checking if our config is working fine
+
+
+
+#Testing if ssh over to our NFS server is working
